@@ -1,0 +1,2 @@
+i write on my terminal
+by using cat >> filename
